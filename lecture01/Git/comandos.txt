@@ -1,0 +1,13 @@
+git clone (clona repositório do github) 
+
+git add 
+
+git commit
+
+git commit -am (combina a ação de git add e commit, com todas as alterações realizadas)
+
+git status 
+
+git push
+
+git pull
