@@ -12,4 +12,6 @@ git push
 
 git pull
 
-teste am
+git log 
+
+git reset --hard <commit>
