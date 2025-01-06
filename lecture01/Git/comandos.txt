@@ -15,3 +15,11 @@ git pull
 git log 
 
 git reset --hard <commit>
+
+git branch 
+
+git checkout -b <name new branch>
+
+git checkout
+
+git merge
